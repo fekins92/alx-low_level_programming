@@ -1,1 +1,1 @@
-5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
+a function that convert a string to an integer.
