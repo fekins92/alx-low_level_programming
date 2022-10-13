@@ -1,1 +1,1 @@
-a new type struct dog with the following elements
+a function that returns the sum of all its parameters.
